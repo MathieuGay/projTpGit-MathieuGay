@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+        
             echo 'bonjour de Mathieu';
             echo 'seconde ligne de programme utilisateur MathieuGay avec ajout';
             echo 'troisème ligne de programme pour utilisateur MathieuGay';
